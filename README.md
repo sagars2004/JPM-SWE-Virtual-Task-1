@@ -1,2 +1,2 @@
 # JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
+This repository contains files for Task 1 of the J.P. Morgan Software Engineering Virtual Job Experience.
